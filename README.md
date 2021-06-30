@@ -21,7 +21,7 @@ Module one description paragraph.
 Lesson description paragraph.   
 [Link to video!](http://google.com)
 
-### Lesson Title One
+### Lesson Title Two
 Lesson description paragraph.     
 [Link to video!](http://mit.edu)
 
