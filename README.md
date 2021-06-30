@@ -4,11 +4,11 @@ Course description paragraph.
 # Table of contents
 
 * [Introduction](#introduction)
-* [Module One](#module-one)
-  * [Lesson One.One](#lesson-one.one)
-  * [Lesson One.Two](#lesson-one.two)  
-* [Module Two](#module-two)
-  * [Lesson Two.One](#lesson-two.one)
+* [Module 1](#module-1)
+  * [Lesson 1.1](#lesson-1.1)
+  * [Lesson 1.2](#lesson-1.2)
+* [Module 2](#module-2)
+  * [Lesson Two.One](#lesson-2.1)
 
 
 ## Introduction
