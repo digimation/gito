@@ -16,7 +16,7 @@ Course description paragraph.
   * [Cierre de módulo](#cierre-de-módulo)
 * [Módulo 2. GitHub fuera del navegador](#módulo-2.-github-fuera-del-navegador)
   * [Introducción al módulo](#introducción-al-módulo)
-  * [Alternativas al navegador: Terminal y GitHub desktop](#alternativas-al-navegador:-terminal-y-github-desktop)
+  * [Alternativas al navegador. Terminal y GitHub desktop](#alternativas-al-navegador.-terminal-y-github-desktop)
   * [Instalación de GitHub desktop](#instalación-de-github-desktop)
   * [Creando un repositorio - Opción 1](#creando-un-repositiorio---opción-1)
   * [Publicando un repositorio en la web](#publicando-un-repositorio-en-la-web)
