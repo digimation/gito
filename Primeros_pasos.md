@@ -23,7 +23,7 @@ solo necesitarás un correo electrónico.
 
 [Link al video!](http://mit.edu)
 
-*Si este video no te funcionó, puedes consultar este documento muy explicativo con fotos y descripciones paso a paso 
+*Si este video no te funcionó, puedes consultar [este documento](https://hanolisite.wordpress.com/2019/09/14/5-pasos-para-crear-una-cuenta-en-github/) muy explicativo con fotos y descripciones paso a paso 
 para crear tu cuenta.* 
 
 [Link al documento!](https://hanolisite.wordpress.com/2019/09/14/5-pasos-para-crear-una-cuenta-en-github/)
