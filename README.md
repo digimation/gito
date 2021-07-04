@@ -7,7 +7,7 @@ Course description paragraph.
   * Bienvenida al curso
   * Introducción a GitHub
   * Creando tu cuenta de GitHub
-* [Módulo 1. GitHub en el navegador](#módulo-1.-github-en-en-navegador)
+* [Módulo_1.GitHub_en_el_navegador.md](Módulo_1.GitHub_en_el_navegador.md)
   * Introducción al módulo
   * Creando un repositorio
   * Manejo de archivos
