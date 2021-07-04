@@ -3,7 +3,7 @@ Course description paragraph.
 
 # Tabla de contenidos
 
-* [Primeros pasos](Primeros pasos.md) 
+* [Primeros_pasos.md](Primeros_pasos.md) 
   * Bienvenida al curso
   * Introducción a GitHub
   * Creando tu cuenta de GitHub
