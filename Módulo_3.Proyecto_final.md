@@ -1,17 +1,20 @@
-## Module 1
+## Módulo 3. Proyecto final
 Module one description paragraph.
 
-### Lesson Title One
-Lesson description paragraph.   
-[Link to video!](http://google.com)
+### Introducción al proyecto final
 
-### Lesson Title Two
-Lesson description paragraph.     
-[Link to video!](http://mit.edu)
+[Link al video!](http://google.com)
 
-## Module 2
-Module two description paragraph.
+*Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
-### Lesson Title
-Lesson description paragraph.     
-[Link to video!](http://amazon.com)
+### Lineamientos del proyecto final
+
+[Link al video!](http://mit.edu)
+
+*Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
+
+### Cierre del curso
+
+[Link al video!](http://google.com)
+
+*Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
