@@ -4,7 +4,7 @@ Course description paragraph.
 # Tabla de contenidos
 
 * [Primeros pasos](#primeros-pasos) 
-  * [Bienvenida al curso]
+  * Bienvenida al curso
   * [Introducción a GitHub](#introducción-a-github)
   * [Creando tu cuenta de GitHub](#creando-tu-cuenta-de-github)
 * [Módulo 1. GitHub en el navegador](#módulo-1.-github-en-en-navegador)
