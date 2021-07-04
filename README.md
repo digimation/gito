@@ -27,7 +27,7 @@ Course description paragraph.
   * Crear pull request en GitHub desktop
   * ¿Cómo aceptar o rechazar un pull request?
   * Cierre de módulo
-* [Módulo 3. Proyecto final](#módulo-3.-proyecto-final)
+* [Módulo_3.Proyecto_final](Módulo_3.Proyecto_final)
   * Introducción al proyecto final
   * Lineamientos del proyecto final
   * Cierre del curso
