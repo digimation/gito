@@ -1,9 +1,9 @@
-# Course Title
+# GitHub Basics
 Course description paragraph.
 
-# Table of contents
+# Tabla de contenidos
 
-* [Introduction](#introduction)
+* [Primeros pasos](#primeros pasos)
 * [Module 1](#module-1)
   * [Lesson Title One](#lesson-title-one)
   * [Lesson Title Two](#lesson-title-two)
