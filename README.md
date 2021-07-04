@@ -14,7 +14,7 @@ Course description paragraph.
   * Fork y notificaciones
   * Pull request
   * Cierre de módulo
-* [Módulo 2. GitHub fuera del navegador](#módulo-2.-github-fuera-del-navegador)
+* [Módulo_2.GitHub_fuera_del_navegador.md](Módulo_2.GitHub_fuera_del_navegador.md)
   * Introducción al módulo
   * Alternativas al navegador. Terminal y GitHub desktop
   * Instalación de GitHub desktop
