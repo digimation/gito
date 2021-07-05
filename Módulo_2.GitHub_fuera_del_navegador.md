@@ -39,7 +39,7 @@ Si tienes algún problema en la instalación, puedes consultar [este video](http
 ### Creando un repositorio. Opción 1
 En este video crearemos nuestro primer repositorio usando Github Desktop.
 
-En este video, estaré haciendo los pasos necesarios para crear un repositorio así que deberás seguirme para que tú también puedas crear el tuyo. Si en algún momento sientes que voy muy rápido, puedes pausar el video e ir a tu paso. 
+Estaré haciendo los pasos necesarios para crear un repositorio así que deberás seguirme para que tú también puedas crear el tuyo. Si en algún momento sientes que voy muy rápido, puedes pausar el video e ir a tu paso. 
 
 Para esta sesión, solo necesitarás tener instalado [Github Desktop](https://desktop.github.com/), así que si aún no lo tienes, da click al enlace.
 
