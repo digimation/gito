@@ -70,11 +70,16 @@ Experimenta y juega con los archivos en Github Desktop, añade, elimina y edíta
 
 [Link al video!](http://google.com)
 
+EJERCICIO: Ya conocimos la segunda manera de crear un repositorio en Github Desktop, ahora deberás crear (de manera opcional) un NUEVO repositorio pero con alguna carpeta o proyecto ya existente en tu computadora y que te gustaría alojar en Github. 
+
+Si tuviste alguna duda a lo largo del video creando el repositorio, te dejamos este documento donde de manera detallada y con fotos sigue paso a paso el proceso de creación.  
+
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
 ### Manejando los cambios
 ¿Cómo regresar a versiones anteriores cuando hay errores? En este video veremos cómo manejar los cambios en Github Desktop.
-Abordaremos cómo en Github Desktop podemos evitar cometer errores y regresar a versiones anteriores en nuestros proyectos de dos maneras diferentes. 
+
+Abordaremos cómo en Github Desktop podemos evitar cometer errores y regresar a versiones anteriores en nuestros proyectos de dos maneras diferentes. Para esta sesión, solo necesitarás tener instalado [Github Desktop](https://desktop.github.com/), así que si aún no lo tienes, da click al enlace. 
 
 [Link al video!](http://google.com)
 
@@ -87,7 +92,7 @@ Si lo que vimos en esta lección te dejó con dudas, puedes consultar [este vide
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
 ### Clonando un repositorio
-En esta lección aprenderemos a clonar un repositorio desde la Web a Github Desktop.
+En esta lección aprenderemos a clonar un repositorio desde la Web a Github Desktop. Para esta sesión, solo necesitarás tener instalado [Github Desktop](https://desktop.github.com/), así que si aún no lo tienes, da click al enlace.
 
 [Link al video!](http://google.com)
 
@@ -98,20 +103,47 @@ Si lo que vimos en esta lección te dejó con dudas, puedes consultar [este arch
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
 ### Haciendo fork de un repositorio
+En este video haremos fork de un repositorio desde Github Desktop.
+En la sesión anterior vimos cómo clonar un repositorio personal o en el cual somos contribuidoras, en este caso estaremos viendo cómo hacer fork de un repositorio que no nos pertenece pero del cual queremos tener una copia para poder trabajar. 
+
+Para esta sesión, solo necesitarás tener instalado [Github Desktop](https://desktop.github.com/), así que si aún no lo tienes, da click al enlace.
 
 [Link al video!](http://google.com)
+
+EJERCICIO:  Ya hicimos fork de un repositorio juntas, ahora deberás hacer fork (de manera opcional) de un repositorio que te guste usando Github Desktop. Si necesitas inspiración para encontrar repositorios, puedes ingresar a [este sitio](https://github.com/explore) o ver [este video](https://youtu.be/W7AewHnxMig) de como explorar en Github (el video está en inglés pero puedes activar los subtítulos en español dando click a Ajustes>Subtítulos>Auto-generados>Español/Spanish). 
+
+Si tuviste alguna duda a lo largo del video forkeando el repositorio, te dejamos [este documento](https://docs.github.com/es/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop) [sección Ramificar repositorios] donde de manera detallada y con fotos sigue paso a paso el proceso de bifurcación.  
+
+NOTA: Recuerda que al trabajar con el fork de un repositorio, también es posible hacer push y pull; además de que lo puedes trabajar en el navegador o desde Github Desktop. Si lo vas a trabajar en el último, no olvides hacer fetch para tener todos los documentos actualizados. 
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
 ### Crear pull request en GitHub desktop
+En este video crearemos nuestro primer pull request en Github Desktop
+Estaré haciendo los pasos necesarios para crear un pull request, así que sígueme para que tú también puedas crear el tuyo. Si en algún momento sientes que voy muy rápido, puedes pausar el video e ir a tu ritmo. 
+
+Importante: El URL del repositorio que puedes usar en esta lección es: https://github.com/mariana-gtz/MiRestaurante.git . No olvides leer las instrucciones en [Bienvenida.md](https://github.com/mariana-gtz/MiRestaurante/blob/master/Bienvenida.md) para que podamos aceptar tu pull request.
+
+Para esta sesión, solo necesitarás tener instalado [Github Desktop](https://desktop.github.com/), así que si aún no lo tienes, da click al enlace.
 
 [Link al video!](http://google.com)
+
+EJERCICIO:  Ya que aprendimos cómo hacer un pull request a través de Github Desktop, es hora de mandar tu Receta Preferida a nuestro [repositorio de prueba](https://github.com/mariana-gtz/MiRestaurante), las instrucciones las puedes encontrar en el archivo llamado Bienvenida.md. 
+
+Si tuviste alguna duda a lo largo del video creando tu pull request, te dejamos [este documento](https://docs.github.com/es/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request#creating-a-pull-request) donde de manera detallada y con fotos sigue paso a paso el proceso de creación.  
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
 ### ¿Cómo aceptar o rechazar un pull request?
+En esta lección aprenderás cómo es posible aceptar o rechazar un pull request enviado desde Github Desktop.
 
 [Link al video!](http://google.com)
+
+EJERCICIO:  Ya aprendimos cómo aceptar o rechazar un pull request, ahora deberás pedirle a algún conocido o conocida que tengas, que use Github, que te haga un pull rquest y tú manejarlo (aceptarlo o rechazarlo).  
+
+Si no tienes conocidos o conocidas que usen Github, déjanos en los comentarios tu usuario de Github o el URL de tu repositorio público y alguna de nuestras instructoras te hará llegar un pull request. 
+
+Si tuviste alguna duda a lo largo del video creando el repositorio, te dejamos [este video](https://youtu.be/cZHP4tkUDsg) donde de manera detallada, siguen paso a paso el proceso los pull requests.  
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
