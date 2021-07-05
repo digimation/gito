@@ -56,7 +56,7 @@ Publicaremos el repositorio que creamos en la lección anterior a Github en la w
 
 En este video veremos un poco más sobre la manipulación de archivos trabajando en un repositorio local en Github Desktop, además, publicaremos el repositorio con el que estuvimos trabajando en la lección anterior así que no te lo pierdas. Puedes ir siguiendo mis pasos a lo largo del video y si lo sientes muy rápido, puedes pausarlo.
 
-Para esta sesión, solo necesitarás tener instalado Github Desktop, así que si aún no lo tienes, da click al enlace. 
+Para esta sesión, solo necesitarás tener instalado [Github Desktop](https://desktop.github.com/), así que si aún no lo tienes, da click al enlace. 
 
 [Link al video!](http://google.com)
 
