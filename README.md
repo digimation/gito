@@ -28,9 +28,7 @@ Course description paragraph.
   * ¿Cómo aceptar o rechazar un pull request?
   * Cierre de módulo
 * [Módulo_3.Proyecto_final.md](Módulo_3.Proyecto_final.md)
-  * Introducción al proyecto final
-  * Lineamientos del proyecto final
-  * Cierre del curso
+  * Lineamientos del proyecto final y cierre del curso
 
 ## Introduction
 Introduction paragraph.
