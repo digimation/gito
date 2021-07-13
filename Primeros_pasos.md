@@ -18,7 +18,7 @@ y descripciones para poder entender de mejor manera estos conceptos.*
 
 ### Creando tu cuenta
 En esta lección aprenderás a crear tu cuenta de Github, la cual será esencial para los siguientes pasos del curso. 
-Si tienes problemas para acceder a la página de Github, da click a ESTE ENLACE para ingresar y crear tu cuenta, 
+Si tienes problemas para acceder a la página de Github, da click a [este enlace](https://github.com/signup?user_email=&source=form-home-signup) para ingresar y crear tu cuenta, 
 solo necesitarás un correo electrónico.
 
 [Link al video!](http://mit.edu)
