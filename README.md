@@ -30,7 +30,4 @@ Course description paragraph.
 * [Módulo_3.Proyecto_final.md](Módulo_3.Proyecto_final.md)
   * Lineamientos del proyecto final y cierre del curso
 
-## Introduction
-Introduction paragraph.
-
 
