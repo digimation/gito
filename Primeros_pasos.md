@@ -9,7 +9,7 @@ Lesson description paragraph.
 En esta lección aprenderás las principales diferencias entre Git y Github, 
 así como los principales beneficios que nos ofrecen, para sacarles el mejor provecho. 
 
-[Link al video!](https://www.youtube.com/watch?v=DinilgacaWs)
+[Link al video!](https://www.youtube.com/watch?v=nmjD8k0AM50&list=PLI-z6o9BMa6MT_hKWuHES0AjrPsHujCf6&index=1)
 
 *Si esta actividad no te funcionó, puedes consultar [este video](https://www.youtube.com/watch?v=DinilgacaWs) muy explicativo con fotos 
 y descripciones para poder entender de mejor manera estos conceptos.*
@@ -20,7 +20,7 @@ En esta lección aprenderás a crear tu cuenta de Github, la cual será esencial
 Si tienes problemas para acceder a la página de Github, da click a [este enlace](https://github.com/signup?user_email=&source=form-home-signup) para ingresar y crear tu cuenta, 
 solo necesitarás un correo electrónico.
 
-[Link al video!](http://mit.edu)
+[Link al video!](https://www.youtube.com/watch?v=WUQQoaNKHx0&list=PLI-z6o9BMa6MT_hKWuHES0AjrPsHujCf6&index=2)
 
 *Si este video no te funcionó, puedes consultar [este documento](https://hanolisite.wordpress.com/2019/09/14/5-pasos-para-crear-una-cuenta-en-github/) muy explicativo con fotos y descripciones paso a paso 
 para crear tu cuenta.* 
