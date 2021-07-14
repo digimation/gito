@@ -11,10 +11,9 @@ así como los principales beneficios que nos ofrecen, para sacarles el mejor pro
 
 [Link al video!](https://www.youtube.com/watch?v=DinilgacaWs)
 
-*Si esta actividad no te funcionó, puedes consultar este video muy explicativo con fotos 
+*Si esta actividad no te funcionó, puedes consultar [este video](https://www.youtube.com/watch?v=DinilgacaWs) muy explicativo con fotos 
 y descripciones para poder entender de mejor manera estos conceptos.*
 
-[Link al video de apoyo!](https://www.youtube.com/watch?v=DinilgacaWs)
 
 ### Creando tu cuenta
 En esta lección aprenderás a crear tu cuenta de Github, la cual será esencial para los siguientes pasos del curso. 
