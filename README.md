@@ -1,4 +1,4 @@
-# GitHub Basics
+# GitHub Basics. Descripción del curso
 Course description paragraph.
 
 # Tabla de contenidos
