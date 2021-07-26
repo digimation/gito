@@ -1,10 +1,3 @@
-## Primeros pasos 
-Module one description paragraph.
-
-### Bienvenida al curso
-Lesson description paragraph.   
-[Link to video!](http://google.com)
-
 ### Introducción a GitHub
 En esta lección aprenderás las principales diferencias entre Git y Github, 
 así como los principales beneficios que nos ofrecen, para sacarles el mejor provecho. 
