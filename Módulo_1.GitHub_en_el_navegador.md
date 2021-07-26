@@ -1,5 +1,4 @@
 ## Módulo 1. GitHub en el navegador
-Module one description paragraph.
 
 ### Introducción al módulo
 Bienvenidos a la primera lección del curso, les recuerdo seguir paso a paso las instrucciones del video.
